@@ -1,0 +1,27 @@
+#Category:main - the main binary packages needed to run enigma
+lgm adae0cccdd5b893864da1fe276c7298f lateralgm.jar https://www.dropbox.com/s/mlpqc3la3e23b69/lateralgm.jar none
+main 3d9688b5c4923eb68f8affbb6aec60a2 plugins/enigma.jar https://www.dropbox.com/s/xlhhp1z218ig3rr/enigma.jar jnaJar,lgm,mac
+jnaJar d3ba41fcad5df53da1fe12fc772bb8b6 plugins/shared/jna.jar https://www.dropbox.com/s/d6wclq69jwbnhrj/jna.jar none
+
+mac 318a525cca319f82a3f118de66884802 MacOS/build/Release/EnigmaXcode.app/Contents/Resources/English.lproj/MainMenu.nib http://dl.dropbox.com/u/5072558/EnigmaUpdater/MainMenu.nib alure
+
+win.bat 9fdb86607d1b510c63875bb3257e5a34 run.bat http://dl.dropbox.com/u/5072558/EnigmaUpdater/run.bat main
+winbash 87524cc1c027ea62c38951b4b4e9d2ab windowsBash.epackage http://dl.dropbox.com/u/5072558/EnigmaUpdater/windowsBash.epackage none,zlib,ffi
+
+alure 3dc81094e541729018102688a2a92eb7 ENIGMAsystem/additional/alure.epackage http://dl.dropbox.com/u/5072558/EnigmaUpdater/alure.epackage none
+zlib 076504649292013e4376b66daa7bd3d0 ENIGMAsystem/additional/zlib.epackage http://dl.dropbox.com/u/5072558/EnigmaUpdater/zlib.epackage none
+ffi 84b54e594d6a0035571e3e689f8066d2 ENIGMAsystem/additional/ffi.epackage http://dl.dropbox.com/u/5072558/EnigmaUpdater/ffi.epackage none
+
+#Category:examples
+catch_the_clown 3601e3a3ad64e1705ac439d00472a5a5 examples/catch_the_clown.gmk http://dl.dropbox.com/u/5072558/EnigmaUpdater/Catch_the_Clown.gmk none
+
+#Category:sdks
+androidSDK-darwin 387fed6cbdbd89958778c0395be7ce27 SDKs/androidSDK-darwin.epackage http://dl.dropbox.com/u/5072558/EnigmaUpdater/android-ndk-r7b.epackage none
+androidSDK-win32 c42b0c9c14428397337421d5e4999380 SDKs/androidSDK-win32.epackage http://dl.google.com/android/ndk/android-ndk-r7b-windows.zip none
+
+#Category:extensions
+39dylib 8ed6d2a7b8ce1b9be377b8c3777cbed6 ENIGMAsystem/SHELL/Universal_System/Extensions/39dylib.epackage http://dl.dropbox.com/u/5072558/EnigmaUpdater/39dylib.epackage none
+unimplemented e61518cbb2cbb7ce4be69d1cd4547825 ENIGMAsystem/SHELL/Universal_System/Extensions/Unimplemented.epackage http://dl.dropbox.com/u/5072558/EnigmaUpdater/Unimplemented.epackage none
+
+#Category:misc
+lgmUtility bae0118866a8a5835782f0b13f5f2aaa plugins/LGMUtility.jar http://dl.dropbox.com/u/5072558/EnigmaUpdater/LGMUtility.jar none
