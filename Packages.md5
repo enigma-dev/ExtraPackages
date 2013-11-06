@@ -1,7 +1,7 @@
 #Category:main - the main binary packages needed to run enigma
-lgm adae0cccdd5b893864da1fe276c7298f lateralgm.jar https://dl.dropboxusercontent.com/s/mlpqc3la3e23b69/lateralgm.jar none
-main 3d9688b5c4923eb68f8affbb6aec60a2 plugins/enigma.jar https://dl.dropboxusercontent.com/s/xlhhp1z218ig3rr/enigma.jar jnaJar,lgm,mac
-jnaJar d3ba41fcad5df53da1fe12fc772bb8b6 plugins/shared/jna.jar https://dl.dropboxusercontent.com/s/d6wclq69jwbnhrj/jna.jar none
+lgm 4e3c5088e4ba73ab8b21d3c5a31012cd ./lateralgm.jar https://dl.dropboxusercontent.com/s/mlpqc3la3e23b69/lateralgm.jar none
+main a1e20e48a367063023db9137ceb7c63c ./plugins/shared/jna.jar https://dl.dropboxusercontent.com/s/xlhhp1z218ig3rr/enigma.jar jnaJar,lgm,mac
+jnaJar a4e89ff3ecc5eedb587816a6e3646ab3 ./plugins/enigma.jar https://dl.dropboxusercontent.com/s/d6wclq69jwbnhrj/jna.jar none
 
 mac 318a525cca319f82a3f118de66884802 MacOS/build/Release/EnigmaXcode.app/Contents/Resources/English.lproj/MainMenu.nib http://dl.dropbox.com/u/5072558/EnigmaUpdater/MainMenu.nib alure
 
