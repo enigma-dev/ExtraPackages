@@ -10,7 +10,7 @@ icns 35fc725e522a2d26a36ea99b0e13b4cf MacOS/build/Release/EnigmaXcode.app/Conten
 win.bat 9fdb86607d1b510c63875bb3257e5a34 run.bat http://dl.dropbox.com/u/5072558/EnigmaUpdater/run.bat main
 winbash 87524cc1c027ea62c38951b4b4e9d2ab windowsBash.epackage http://dl.dropbox.com/u/5072558/EnigmaUpdater/windowsBash.epackage none,zlib,ffi
 
-alure 7e3e86aaadc9dce46082fa8dbe651815 ENIGMAsystem/additional/alure.epackage http://dl.dropbox.com/s/kc5kc20tkmmdz65/alure.epackage.2014.12.27 none
+alure edda1cf74a18e27a107757db2ab3e89d ENIGMAsystem/additional/alure.epackage http://dl.dropbox.com/s/yx0upohoipzfdhv/alure.epackage.2014.12.28 none
 zlib 076504649292013e4376b66daa7bd3d0 ENIGMAsystem/additional/zlib.epackage http://dl.dropbox.com/u/5072558/EnigmaUpdater/zlib.epackage none
 ffi 84b54e594d6a0035571e3e689f8066d2 ENIGMAsystem/additional/ffi.epackage http://dl.dropbox.com/u/5072558/EnigmaUpdater/ffi.epackage none
 
