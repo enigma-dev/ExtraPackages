@@ -1,5 +1,5 @@
 #Category:main - the main binary packages needed to run enigma
-lgm b5112e374a0ee08fc804fc835e0339d4 ./lateralgm.jar https://github.com/IsmAvatar/LateralGM/releases/download/v1.8.194/lateralgm.jar none
+lgm a9e9a3d97ab9be753604a04f32849972 ./lateralgm.jar https://github.com/IsmAvatar/LateralGM/releases/download/v1.8.195/lateralgm.jar none
 main 199e0ca0a25cf9ebf3424ed888bb46cb ./plugins/enigma.jar https://github.com/enigma-dev/lgmplugin/releases/download/v1.8.7.11r9/enigma.jar jnaJar,lgm,mac
 jnaJar 56892d6f4d27019833fd53b7cc57ec86 ./plugins/shared/jna.jar https://enigma-dev.org/bin/jna.jar none
 
